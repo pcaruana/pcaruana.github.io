@@ -35,7 +35,7 @@ $ model: Remote-First | Global Availability | Flexible Travel
 ---
 
 ### 🌐 CONNECT & DISPATCH
-* **Interactive BBS Terminal Resume:** [pcaruana.dev](https://pcaruana.dev) *(or your GitHub Pages URL)*
+* **Interactive BBS Terminal Resume:** [https://pcaruana.github.io/pcaruana/](https://pcaruana.github.io/pcaruana/) 
 * **LinkedIn:** [linkedin.com/in/pcaruana](https://www.linkedin.com/in/pcaruana)
 * **Direct Email:** pablo.caruana@gmail.com
 
